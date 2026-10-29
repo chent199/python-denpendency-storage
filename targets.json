@@ -1,0 +1,5 @@
+{
+  "win10-cp314": {"platform": "x86_64-pc-windows-msvc", "python": "3.14.4", "abi": "cp314", "pip_platforms": ["win_amd64"]},
+  "rhel87-cp312": {"platform": "x86_64-manylinux_2_28", "python": "3.12.8", "abi": "cp312", "glibc": 28},
+  "openeuler-cp312": {"platform": "x86_64-manylinux_2_38", "python": "3.12.7", "abi": "cp312", "glibc": 38}
+}
